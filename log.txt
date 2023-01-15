@@ -1,0 +1,12 @@
+diff --git a/configuration/dev/config1.json b/configuration/dev/config1.json
+index 736a47c..e69de29 100644
+--- a/configuration/dev/config1.json
++++ b/configuration/dev/config1.json
+@@ -1 +0,0 @@
+-step 2. changing dev file1
+diff --git a/configuration/dev/config2.json b/configuration/dev/config2.json
+index bebc406..e69de29 100644
+--- a/configuration/dev/config2.json
++++ b/configuration/dev/config2.json
+@@ -1 +0,0 @@
+-step 1. chnaging dev file 2
